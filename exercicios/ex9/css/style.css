@@ -1,0 +1,9 @@
+h1 {
+    font-style: italic;
+    display: flex;
+}
+
+.botao {
+    padding: 5px;
+    margin-left: 50px;    
+}
