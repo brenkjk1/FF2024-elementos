@@ -15,4 +15,3 @@ function Verificando() {
 }
 
 document.querySelector('button').addEventListener('click', Verificando);
-
